@@ -1,0 +1,7 @@
+[
+    {
+        "name": "华东线",
+        "gateway": "https://line2.jnalythb.com/gateway",
+        "ping": "https://line2.jnalythb.com/ping"
+    }
+]
